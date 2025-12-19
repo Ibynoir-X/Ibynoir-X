@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Sullayman Ibraheem
 
-<!--
-**Ibynoir-X/Ibynoir-X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Cybersecurity and Ethical-hacking
+🚀 *Building skills today for tomorrow’s technology.*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+I am a motivated **Student** with a passion for technology and continuous learning.
+
+- 🌱 Currently learning: **Python, Bash/Shell scripting, C & C++, Javascript, SQL, Powershell (Windows Security)**
+- 💡 Interested in: **Cybersecurity and Ethical-Hacking**
+- 🔭 Currently working on: **improving my programming skills**
+
+---
+
+## 🛠️ Skills & Tools
+
+### Programming Languages
+- Python
+- JavaScript
+- HTML & CSS
+
+### Tools
+- Git & GitHub
+- VS Code
+- Linux / Windows
+
+---
+
+## 📫 Contact Information
+
+- 📧 Email: **ibraheemsullayman@gmail.com**
+- 💼 LinkedIn: **https://github.com/Ibynoir-X**
+
